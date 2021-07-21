@@ -2,6 +2,9 @@
 
 
 <!-- **kapoorp99/kapoorp99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<a href="https://www.instagram.com/kapoorprakhar99/">
+  <img align="left" alt="Shomik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 <a href="https://www.codechef.com/users/kp99">
   <img align="left" alt="Prakhar | Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
@@ -26,5 +29,4 @@
 - ⚡ Fun fact: "Computers have power to do computations,but we humans have made them to do so !" 
 
 <br />
-![Profile views](https://gpvc.arturio.dev/kapoorp99)
 
