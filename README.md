@@ -8,6 +8,7 @@
 <a href="mailto:kapoorprakhar99@gmail.com">
   <img align="left" alt="Prakhar | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
 </a>
+<br />
 
 
 <!-- Here are some ideas to get you started: -->
