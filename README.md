@@ -2,6 +2,13 @@
 
 
 <!-- **kapoorp99/kapoorp99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<a href="https://www.codechef.com/users/kp99"></a>
+  <img align="left" alt="Prakhar | Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
+<a href="mailto:kapoorprakhar99@gmail.com">
+  <img align="left" alt="Prakhar | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
+</a>
+
 
 <!-- Here are some ideas to get you started: -->
 
