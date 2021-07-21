@@ -25,3 +25,6 @@
 - 😄 Pronouns: ... kp99
 - ⚡ Fun fact: "Computers have power to do computations,but we humans have made them to do so !" 
 
+<br />
+![Profile views](https://gpvc.arturio.dev/kapoorp99)
+
