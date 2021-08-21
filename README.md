@@ -29,4 +29,7 @@
 - ⚡ Fun fact: "Computers have power to do computations,but we humans have made them to do so !" 
 
 <br />
+![](https://github-readme-stats.vercel.app/api?username=kapoorp99&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515)
+
+![](https://github-readme-stats.vercel.app/api?username=kapoorp99&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515)
 
