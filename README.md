@@ -27,7 +27,7 @@
 - 😄 Pronouns: ... kp99,kapoorp99
 - ⚡ Fun fact: "Computers have power to do computations,but we humans have made them to do so !" 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kapoorp99&hide=stars&show_icons=true&theme=dracula&line_height=48)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kapoorp99&count_private=true&hide=stars&show_icons=true&theme=dracula&line_height=48)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kapoorp99&count_private=true&theme=dracula&line_height=48)
 
 <br> **Profile Visitors**<br>
