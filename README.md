@@ -29,4 +29,4 @@
 
 <br>**My Github Stats**
 
-[![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapoorp99)]
+![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapoorp99)
