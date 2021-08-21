@@ -14,8 +14,8 @@
 <a href="https://www.linkedin.com/in/kp99/">
   <img align="left" alt="Prakhar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<br />
-<br />
+<br>
+<br>
 
 
 <!-- Here are some ideas to get you started: -->
@@ -24,14 +24,9 @@
 - 🌱 I’m currently learning Redux and.......
 - 👯 I’m looking to collaborate on React Projects
 - 💬 Ask me about Web Development,Turing's Machine and the science behind Programming,Silicon Chips,Digital Brain,etc.
-<!-- - 📫 How to reach me: ... -->
-- 😄 Pronouns: ... kp99
+- 😄 Pronouns: ... kp99,kapoorp99
 - ⚡ Fun fact: "Computers have power to do computations,but we humans have made them to do so !" 
 
-<br />
-<br>**Visitors Count**  
-![](https://profile-counter.glitch.me/{kapoorp99}/count.svg)
 <br>**My Github Stats**
 
-![](https://github-readme-stats.vercel.app/api?username=kapoorp99&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515)
-
+[![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapoorp99)]
