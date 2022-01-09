@@ -26,6 +26,7 @@
 - 💬 Ask me about Web Development,Turing's Machine and the science behind Programming,Silicon Chips,Digital Brain,etc.
 - 😄 Pronouns: ... kp99,kapoorp99
 - ⚡ Fun fact: "Computers have power to do computations,but we humans have made them to do so !" 
+- 📖 Currently reading this research paper "COMPUTING MACHINERY AND INTELLIGENCE" by A.M. Turing
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kapoorp99&count_private=true&show_icons=true&theme=dracula&line_height=48)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kapoorp99&count_private=true&theme=dracula&line_height=48)
