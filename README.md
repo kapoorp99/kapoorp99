@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on many things in parallel and parallel world also! 😂😅😶
 - 🌱 I’m currently learning Redux and.......
-- 👯 I’m looking to collaborate on React Projects
+- 👯 I’m looking to collaborate on New and world changing projects ideas!
 - 💬 Ask me about Web Development,Turing's Machine and the science behind Programming,Silicon Chips,Digital Brain,etc.
 - 😄 Pronouns: ... kp99,kapoorp99
 - ⚡ Fun fact: "Computers have power to do computations,but we humans have made them to do so !" 
