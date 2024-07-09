@@ -47,4 +47,4 @@ UPI ID: 6394kp@kotak
 
 Buy Me a Coffee
 
-⭐️ From (https://www.buymeacoffee.com/prakharkapoor)
+⭐️ From [prakharkapoor](https://www.buymeacoffee.com/prakharkapoor)
